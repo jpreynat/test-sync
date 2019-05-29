@@ -1,3 +1,5 @@
-# TOC
+# Table of contents
 
-* [Page 1](./page1.md)
+* [Introduction](README.md)
+* [Page 1](page1.md)
+
