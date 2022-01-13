@@ -1,3 +1,3 @@
 # Page 2
 
-A bit of content for page 2 :)
+Some content for page 2.
